@@ -1,6 +1,6 @@
 # YourTTS Zero-Shot Voice Cloning with Sentiment Conditioning in voice
 
-# %pip install TTS yt-dlp transformers pydub
+%pip install TTS yt-dlp transformers pydub
 
 import os
 from pydub import AudioSegment
